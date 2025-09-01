@@ -13,7 +13,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@genkit-ai/ai": "^0.5.8",
+    "@genkit-ai/ai": "^0.9.12",
     "@genkit-ai/core": "^0.5.8",
     "@genkit-ai/dotprompt": "^0.5.8",
     "@genkit-ai/flow": "^0.5.8",
