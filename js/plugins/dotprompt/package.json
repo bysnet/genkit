@@ -28,7 +28,7 @@
   "license": "Apache-2.0",
   "dependencies": {
     "front-matter": "^4.0.2",
-    "handlebars": "^4.7.8",
+    "handlebars": "^4.7.9",
     "node-fetch": "^3.3.2",
     "zod": "^3.22.4"
   },
@@ -42,7 +42,7 @@
     "tsup": "^8.0.2",
     "tsx": "^4.7.0",
     "typescript": "^4.9.0",
-    "yaml": "^2.4.1",
+    "yaml": "^2.8.3",
     "rimraf": "^6.0.1"
   },
   "types": "./lib/index.d.ts",
